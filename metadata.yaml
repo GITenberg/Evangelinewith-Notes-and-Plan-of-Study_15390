@@ -1,0 +1,36 @@
+_repo: Evangelinewith-Notes-and-Plan-of-Study_15390
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    alias: Longfellow, Henry W.
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+  editor:
+    agent_name: Conover, W. F.
+    gutenberg_agent_id: '6030'
+    url: http://www.gutenberg.org/2009/agents/6030
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcsh 'Acadians -- Poetry'
+- !lcc 'PS'
+title: 'Evangeline
+
+  with Notes and Plan of Study'
+url: http://www.gutenberg.org/ebooks/15390
