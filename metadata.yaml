@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '6030'
     url: http://www.gutenberg.org/2009/agents/6030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15390#Evangelinewith-Notes-and-Plan-of-Study
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2005-03-16'
 gutenberg_type: Text
